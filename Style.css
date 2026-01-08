@@ -1,0 +1,300 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+/* Header Styles */
+header {
+    padding: 20px;
+    background-color: #3e8e41;  /* Green background for header */
+    color: white;
+    font-size: 24px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    font-size: 20px;
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    letter-spacing: 0px;
+    word-spacing: -3px;
+    animation: roamingGlow 3s ease-in-out infinite;
+    color: #ffffff;
+}
+
+/* Word animation - staggered fade-in effect */
+.word-animate {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+@keyframes roamingGlow {
+    0% {
+        text-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(100, 200, 255, 0.6), 0 0 45px rgba(100, 200, 255, 0.4);
+    }
+    25% {
+        text-shadow: 8px 0 20px rgba(255, 255, 255, 0.9), -8px 0 20px rgba(100, 200, 255, 0.5), 0 0 50px rgba(100, 200, 255, 0.5);
+    }
+    50% {
+        text-shadow: 0 8px 25px rgba(255, 255, 255, 0.9), 0 -8px 20px rgba(100, 200, 255, 0.5), 0 0 55px rgba(100, 200, 255, 0.6);
+    }
+    75% {
+        text-shadow: -8px 0 20px rgba(255, 255, 255, 0.9), 8px 0 20px rgba(100, 200, 255, 0.5), 0 0 50px rgba(100, 200, 255, 0.5);
+    }
+    100% {
+        text-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 30px rgba(100, 200, 255, 0.6), 0 0 45px rgba(100, 200, 255, 0.4);
+    }
+}
+
+/* App List Styles - 6 apps per line, centered */
+.apps {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.app {
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    width: 120px;
+    flex-shrink: 0;
+}
+
+.app:hover {
+    transform: scale(1.05);  /* Hover effect to enlarge the app icon */
+}
+
+.app img {
+    width: 100px;
+    height: 100px;
+}
+
+.app p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+}
+
+/* Pagination Controls */
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.pagination-controls button {
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #4CAF50;  /* Green color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.pagination-controls button:hover {
+    background-color: #45a049;  /* Darker green on hover */
+}
+
+/* DSS Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);  /* Dark background */
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    width: 25%;               /* reduced from 30% */
+    max-width: 320px;         /* reduced from 360px */
+    max-height: 80vh;
+    overflow-y: auto;
+    position: relative;
+    text-align: left;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* smaller app icon inside modal header area */
+.modal-content .modal-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+}
+.modal-content .modal-header img {
+    width: 48px;
+    height: 48px;
+    border-radius: 8px;
+    object-fit: contain;
+}
+
+/* ensure specific ID constrained too */
+#dss-app-icon {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+}
+
+/* modal header title smaller & aligned */
+.modal-header h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* make modal close button stand out less in compact UI */
+.close {
+    color: #888;
+    font-size: 24px;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+    line-height: 1;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+}
+
+#data-safety-details {
+    margin-top: 20px;
+}
+
+/* Data safety compact table */
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    color: #222;
+}
+.data-table thead th {
+    text-align: left;
+    padding: 8px 6px;
+    font-weight: 600;
+    border-bottom: 1px solid #eee;
+}
+.data-table thead th:last-child {
+    text-align: center;
+    width: 40px;
+    padding: 8px 0px;
+}
+.data-table tbody tr {
+    border-bottom: 1px solid #f6f6f6;
+}
+.data-table td {
+    padding: 8px 6px;
+    vertical-align: middle;
+}
+
+/* cell with datatype icon + text */
+.data-type-cell {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.data-type-cell img {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* direction cell (arrows) aligned to center and tight */
+.direction-cell {
+    text-align: center;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    min-height: 40px;
+    vertical-align: middle;
+}
+.direction-cell .arrow {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    object-fit: contain;
+    flex-shrink: 0;
+    margin-right: 8px;
+}
+
+/* Fallback small message */
+.no-details {
+    padding: 12px;
+    color: #666;
+    font-size: 13px;
+}
+
+/* Next Button Styling */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: #4CAF50;  /* Green color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;  /* Darker green on hover */
+}
+
+button:active {
+    transform: scale(0.98);  /* Slight shrink effect when clicked */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .apps {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    }
+
+    .modal-content {
+        width: 92%;
+        padding: 16px;
+    }
+    .data-table thead th, .data-table td {
+        font-size: 13px;
+        padding: 8px 6px;
+    }
+}

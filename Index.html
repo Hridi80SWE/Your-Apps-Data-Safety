@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Apps - Data Safety</title>
+    <link rel="stylesheet" href="Style.css"> <!-- changed to match file name -->
+</head>
+<link rel="stylesheet" href="styles/apps-icons-grid.css">
+<script src="scripts/render-app-icons.js"></script>
+<body>
+    <header>
+        <h1>Your Apps</h1>
+        <p>
+            <span class="word-animate">Click</span>
+            <span class="word-animate">on</span>
+            <span class="word-animate">an</span>
+            <span class="word-animate">app</span>
+            <span class="word-animate">to</span>
+            <span class="word-animate">view</span>
+            <span class="word-animate">data</span>
+            <span class="word-animate">safety</span>
+            <span class="word-animate">details</span>
+        </p>
+    </header>
+    <main>
+        <!-- App list - 6 apps per line, centered -->
+        <section class="apps" id="app-list">
+            <!-- App icons will be added here dynamically -->
+        </section>
+
+        <!-- Navigation buttons -->
+        <div class="pagination-controls">
+            <button id="prev-button" onclick="prevApp()">← Previous</button>
+            <button id="next-button" onclick="nextApp()">Next →</button>
+        </div>
+
+        <!-- DSS Modal (Data Safety Modal) -->
+        <div id="dss-modal" class="modal">
+            <div class="modal-content">
+                <!-- close button outside modal header -->
+                <span class="close" onclick="closeDSSModal()">&times;</span>
+
+                <!-- compact header with icon + title -->
+                <div class="modal-header">
+                    <img id="dss-app-icon" alt="App Icon" />
+                    <h2 id="dss-app-name">App Name</h2>
+                </div>
+
+                <div id="data-safety-details"></div>
+            </div>
+        </div>
+    </main>
+
+    <!-- PapaParse for CSV parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
+
+
+

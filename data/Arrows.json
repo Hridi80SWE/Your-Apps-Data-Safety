@@ -1,0 +1,14 @@
+{
+  "Shared": {
+    "icon": "Assets/Arrows/Shared.jpeg",
+    "name": "Shared "
+  },
+  "Collected": {
+    "icon": "Assets/Arrows/Collected.jpeg",
+    "name": "Collected "
+  },
+  "Both": {
+    "icon": "Assets/Arrows/both.webp",
+    "name": "both"
+  }
+}

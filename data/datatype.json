@@ -1,0 +1,62 @@
+{
+  "App operational overview": {
+    "icon": "assets/data-type-icons/App operational overview.png",
+    "name": "App operational overview"
+  },
+  "User activity patterns": {
+    "icon": "assets/data-type-icons/User activity patterns.png",
+    "name": "User activity patterns"
+  },
+  "Device info": {
+    "icon": "assets/data-type-icons/Device info.png",
+    "name": "Device info"
+  },
+  "Files & docs": {
+    "icon": "assets/data-type-icons/Files & docs.png",
+    "name": "Files and docs"
+  },
+  "Location data": {
+    "icon": "assets/data-type-icons/Location Data.png",
+    "name": "Location Data"
+  },
+  "Messages": {
+    "icon": "assets/data-type-icons/Messages.png",
+    "name": "Messages"
+  },
+  "Personal info": {
+    "icon": "assets/data-type-icons/Personal Info.png",
+    "name": "Personal Info"
+  },
+  "Money & payment info": {
+    "icon": "assets/data-type-icons/Money & payment info.png",
+    "name": "Money & payment info"
+  },
+  "Photos & videos": {
+    "icon": "assets/data-type-icons/Photos & videos.png",
+    "name": "Photos and videos"
+  },
+  "Health & fitness": {
+    "icon": "assets/data-type-icons/Health & Fitness.png",
+    "name": "Health & Fitness"
+  },
+   "Contacts & calendar": {
+    "icon": "assets/data-type-icons/Calendar.png",
+    "name": "Calendar"
+  },
+  "Sound & music": {
+    "icon": "assets/data-type-icons/Sound & music.png",
+    "name": "Sound & music"
+  },
+  "Belief & identity": {
+    "icon": "assets/data-type-icons/Belief & identity.png",
+    "name": "Belief & identity"
+  },
+  "Things users create": {
+    "icon": "assets/data-type-icons/Things users create.png",
+    "name": "Things users create"
+  },
+  "Miscellaneous info": {
+    "icon": "assets/data-type-icons/Miscellaneous info.png",
+    "name": "Miscellaneous info"
+  }
+}

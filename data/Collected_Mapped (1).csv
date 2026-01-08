@@ -1,0 +1,502 @@
+Applications,Personal info,Money & payment info,App operational overview,Location data,Health & fitness,Photos & videos,Sound & music,Messages,User activity patterns,Device info,Contacts & calendar,Belief & identity,Files & docs,Things users create,Miscellaneous info
+Instagram,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+WhatsApp Messenger,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Facebook,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Chatgpt,Y,N,Y,Y,N,N,N,Y,Y,N,N,N,N,N,N
+Google Chrome,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,N,N,Y
+Spotify: Music and Podcasts,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,N,N,Y
+CapCut - Video Editor,Y,N,Y,Y,N,Y,Y,N,Y,Y,N,N,N,N,N
+Telegram,Y,N,N,N,N,Y,Y,Y,N,N,N,N,Y,N,N
+Threads,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Gmail - Private and secure email,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Youtube,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Google Maps,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+Shazam: Music Discovery,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Amazon Shopping,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+Google Drive,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+MyJio: For Everything Jio,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Microsoft Authenticator,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Phone by Google,Y,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,N,N
+Google Photos,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Duolingo: Learn Languages Free,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y
+Cash App,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Microsoft Outlook,Y,N,Y,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N
+Snapchat,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+"Discord – Talk, Play, Hang Out",Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+"Notion: Notes, Tasks, AI",Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Google translate,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,Y
+Google keep,Y,N,Y,Y,N,Y,Y,N,Y,Y,N,N,N,N,Y
+Evernote - Notes Organizer,Y,N,Y,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N
+"CamScanner- scanner, PDF maker",N,Y,Y,N,N,Y,N,N,N,Y,N,N,Y,N,N
+Firefox Fast & Private Browser,Y,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Signal - Private Messenger,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+LinkedIn: Jobs & Business News,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+X,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Bumble Dating app: Chat & Meet,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,N,N,Y
+Pinterest,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Netflix,Y,N,Y,Y,N,N,Y,N,Y,Y,N,N,N,N,Y
+Prime Video,Y,Y,Y,Y,N,N,N,Y,Y,Y,N,N,N,N,N
+YouTube Music,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+VSCO: Photo Editor,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,N
+Uber - Request a ride,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Booking.com: Hotels and more,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Canva: AI Photo & Video Editor,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Lightroom Photo & Video Editor,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,Y,N,N
+"Picsart AI Photo Editor, Video",Y,Y,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+LastPass Password Manager,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,N,N,N
+Google's Find Hub,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,Y
+Solid Explorer File Manager,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Amazon Kindle,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,N
+Trello: Manage Team Projects,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+SmartThings,Y,N,Y,Y,N,Y,Y,N,Y,Y,N,N,N,N,N
+TikTok,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Zoom Workplace,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Skype for Business for Android,Y,N,Y,Y,N,N,N,Y,Y,Y,N,N,N,N,N
+VLC for Android,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+MX Player,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Nova Launcher,N,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N
+EX File Manager,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Adobe Acrobat Reader: Edit PDF,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Microsoft Word: Edit Documents,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N,Y
+Microsoft Excel: Spreadsheets,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N,Y
+Microsoft PowerPoint,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N,Y
+Google Calendar,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,Y
+Todoist: Planner & Calendar,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Any.do - To do list & Calendar,Y,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N,N
+Audible: Audio Entertainment,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+SoundCloud: The Music You Love,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Pandora,Y,N,N,N,N,Y,N,N,N,N,N,N,N,N,N
+Deezer: Music & Podcast Player,Y,Y,N,N,N,Y,N,N,Y,Y,N,N,N,N,Y
+Twitch: Live Streaming,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Reddit,Y,N,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,N
+Tumblr - Social Media Fandom,N,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Kik — Messaging & Chat App,Y,N,Y,N,N,N,N,Y,N,Y,N,N,N,N,N
+Rakuten Viber Messenger,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,Y,N,N,Y
+WeChat,Y,Y,Y,N,Y,Y,Y,N,Y,Y,N,N,Y,N,Y
+LINE: Calls & Messages,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+Zalo,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,Y
+Opera browser with AI & VPN,N,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+"Brave Private Web Browser, VPN",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+"UC Browser-Safe, Fast, Private",Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Dropbox: Files & Cloud Storage,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,Y,N,N
+Microsoft OneDrive,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y,N,Y
+Google Docs,Y,N,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,Y
+Google Sheets,Y,N,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,Y
+Google Slides,Y,N,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,Y
+Google form,Y,N,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,Y
+Messenger,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Minecraft,Y,Y,Y,Y,N,N,N,Y,Y,Y,N,N,N,N,N
+Hotstar,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+TouchRetouch: Remove Objects,N,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+PowerDirector - Video Editor,Y,N,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,N
+Facetune,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+bloonstd 6,N,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+Simple Habit: Meditation App,Y,Y,Y,Y,N,N,N,N,N,Y,N,N,N,N,N
+Scanner Radio - Police Scanner,Y,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Hitman: Sniper,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Poweramp Full Version Unlocker,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Tasker,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Nova Launcher Prime,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Simple Gallery Pro,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bloons TD 6,N,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+Forest: Stay focused,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,Y
+Microsoft SwiftKey AI Keyboard,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+Business Calendar Pro,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Stardew Valley,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Monument Valley,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+Dead Cells,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+Krita,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Moon+ Reader Pro,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Grand Theft Auto: San Andreas,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Relay for reddit,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+"CamCard-AI Scanner, Transcribe",Y,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+Solid Explorer File Manager,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Sleep as Android: Smart alarm,N,N,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,N
+Action Launcher: Pixel Edition,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+MacroDroid - Device Automation,N,N,Y,Y,N,N,N,N,N,Y,N,N,N,N,N
+SD Maid 2/SE - System Cleaner,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+"ArtRage: Draw, Paint, Create",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Photo Editor,N,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+USB Audio Player PRO,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+Pocket Casts - Podcast App,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+Smart Launcher 6 ? Home Screen,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+"Polaris Office: Edit&View, PDF",Y,N,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,N
+Terraria,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Slay the Spire,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+"Papers, Please",N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+The Room: Old Sins,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Kingdom Two Crowns,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Don't Starve: Pocket Edition,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Smart Measure,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+80 Days,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Automate,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Bitwarden Password Manager,Y,N,Y,N,N,Y,Y,N,N,N,N,N,Y,N,N
+Todoist: Planner & Calendar,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Pocket Casts - Podcast App,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+Solid Explorer File Manager,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+MiXplorer Silver File Manager,Y,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N,N
+Lightroom Photo & Video Editor,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,Y,N,N
+ProShot,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+OfficeSuite Pro + PDF (Trial),Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Threema. The Secure Messenger,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+AWS Wickr,Y,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N
+Proton Mail: Encrypted Email,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,N,Y,N,Y
+Tuta: Secure & Private Mail,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Enpass Password Manager,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+1Password: Password Manager,Y,N,Y,Y,N,Y,N,N,Y,N,N,N,Y,N,N
+Dashlane Password Manager,Y,Y,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+Keeper Password Manager,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Norton360 Antivirus & Security,N,N,Y,N,N,N,N,Y,Y,Y,N,N,N,N,N
+Avast Antivirus & Security,Y,Y,N,Y,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Malwarebytes Mobile Security,Y,N,N,N,N,N,N,N,Y,Y,N,N,Y,N,N
+AVG Cleaner – Storage Cleaner,Y,Y,N,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Titanium Backup (root needed),N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Backup and Restore - APP,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+My Backup Pro,N,N,Y,N,N,Y,N,Y,N,Y,Y,N,N,N,N
+SMS Backup & Restore Pro,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Truecaller: Phone Call Blocker,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+Hiya: Spam Blocker & Caller ID,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Cerberus Lock Screen Protector,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Prey: Find My Phone & Security,N,N,Y,Y,N,N,N,N,N,N,N,N,N,N,N
+F-Secure Mobile Security,Y,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N,N
+Kaspersky eSIM Store,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bitdefender Mobile Security,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,N,N,Y
+True Key™ by McAfee,Y,N,N,N,N,N,N,N,N,Y,N,N,N,N,Y
+F-Secure Mobile Security,Y,N,Y,N,N,N,N,N,Y,Y,N,N,Y,N,N
+ExpressVPN: Fast & Secure VPN,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+NordVPN – fast VPN for privacy,N,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Surfshark: Secure VPN service,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+CyberGhost VPN: Secure VPN,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Private Internet Access VPN,N,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+MyFitnessPal: Calorie Counter,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y
+Google Fit: Activity Tracking,Y,N,Y,Y,Y,Y,N,N,Y,Y,N,N,N,N,Y
+Samsung Health (Wear OS),Y,N,Y,N,Y,Y,Y,N,Y,Y,N,N,Y,N,Y
+Headspace: Meditation & Health,Y,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+"Calm - Sleep, Meditate, Relax",Y,Y,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,Y
+Fitbit,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y
+Nike Training Club,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y
+"Strava: Run, Bike, Walk",Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,N,N,N,Y
+ASICS Runkeeper - Run Tracker,Y,N,Y,Y,Y,Y,N,N,Y,N,N,N,N,N,Y
+MacroFactor - Macro Tracker,Y,Y,Y,N,Y,N,N,N,Y,Y,N,N,N,N,Y
+Yuka - Food & Cosmetic Scanner,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Aaptiv: Fitness for Everyone,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+TradingView: Track All Markets,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,N
+Yahoo Finance - Stock Market,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+Venmo,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+NerdWallet: Smart Money App,Y,N,Y,N,N,N,N,Y,Y,N,N,N,N,N,Y
+Albert: Budgeting and Banking,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,Y,N,Y
+Monarch: Budget & Track Money,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Empower Mobile,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,Y
+Goodbudget: Budget & Finance,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+PocketGuard?Budget Planner App,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,Y
+YNAB,Y,Y,N,N,N,Y,N,Y,N,Y,N,N,N,N,N
+Mint,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bKash,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+Bitcoin.com Wallet: Bitcoin,Y,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+Calorie Counter by Lose It!,Y,N,Y,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y
+Calorie Counter by Cronometer,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y
+Freeletics: Fitness Workouts,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,Y
+Sleep Cycle: Sleep Tracker,Y,N,Y,N,Y,N,Y,N,N,Y,N,N,N,N,Y
+Calorie Counter App: Fooducate,Y,N,Y,N,Y,Y,N,N,Y,Y,N,N,N,N,N
+Peloton - at home fitness,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,N,N,N,Y
+Seven - 7 Minute Workout,Y,Y,Y,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y
+Habitica: Gamify Your Tasks,Y,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+Intuit Credit Karma,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Coinbase: Buy Bitcoin & Ether,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Wallet: Budget & Money Manager,Y,Y,Y,N,N,Y,N,N,Y,Y,N,N,Y,N,Y
+Exodus: Crypto Bitcoin Wallet,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Google Sheets,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+Splitwise,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,Y
+Acorns: Invest For Your Future,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Stash: Investing made easy,Y,Y,Y,Y,N,N,N,Y,Y,Y,N,N,N,N,Y
+Hevy - Gym Log Workout Tracker,Y,N,Y,N,N,Y,N,N,Y,Y,N,N,N,N,N
+WHOOP,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,N,Y,N,Y
+"Symptom, Mood & Period Tracker",Y,Y,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,N
+Public – Stocks and Options,Y,Y,Y,N,N,Y,N,N,Y,Y,N,N,N,N,Y
+Delta by eToro,Y,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N
+Boosted Time Tracker,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Noom: Health & Weight,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,N,Y
+BetterMe: Health Coaching,Y,Y,Y,N,Y,Y,N,Y,Y,Y,N,N,N,N,Y
+Rocket Money - Bills & Budgets,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,Y,N,Y
+Healthify Weight Loss Coach,Y,Y,Y,Y,Y,N,N,N,Y,Y,N,Y,N,N,Y
+Home Workout - No Equipment,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Water Reminder - Remind Drink,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Daily Yoga: Fitness+Meditation,Y,N,Y,N,Y,Y,N,N,Y,Y,N,N,N,N,N
+JEFIT Gym Workout Tracker,Y,N,Y,Y,Y,Y,N,N,Y,Y,N,N,N,N,Y
+Map My Run GPS Running Tracker,Y,N,Y,Y,Y,Y,N,N,Y,Y,N,N,N,N,N
+Yoga for Beginners - Yoga App,Y,N,Y,N,Y,N,N,N,Y,Y,N,N,N,N,N
+Lifesum: AI Calorie Counter,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,N,N,N,Y
+Calorie Counter App: Fooducate,Y,N,Y,N,Y,Y,N,N,Y,Y,N,N,N,N,N
+Nike Run Club - Running Coach,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,N,Y
+"PUMATRAC Run, Train, Fitness",Y,N,Y,N,Y,Y,N,N,Y,Y,N,N,N,N,Y
+Running App - GPS Run Tracker,Y,N,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,N
+FitOn Workouts & Fitness Plans,Y,N,Y,N,Y,N,N,N,Y,Y,N,N,N,N,Y
+Medscape,Y,N,N,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Medisafe Pill & Med Reminder,Y,N,N,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Uptodate Lexidrug,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Drugs.com Medication Guide,Y,N,Y,N,N,N,N,Y,Y,Y,N,N,N,N,N
+GoodRx: Prescription Coupons,Y,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Ada – check your health,Y,N,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,Y
+Capsule Clinical Learning,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Robinhood: Trading & Investing,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,Y
+PayPal,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,N
+Fidelity Investments,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Binance: Buy Bitcoin & Crypto,Y,Y,N,N,N,Y,N,N,N,N,N,N,Y,N,N
+Kraken Pro: BTC Crypto Trading,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,N,Y,N,N
+Coinbase: Buy Bitcoin & Ether,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,Y
+Trust Wallet: Bitcoin Wallet,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+KuCoin: Buy Bitcoin & Crypto,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,Y,Y,N,Y
+Bybit: Buy Bitcoin & Crypto,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+"SoFi: Bank, Invest & Loans",Y,Y,Y,N,N,N,N,N,Y,Y,N,N,Y,N,Y
+Investing.com: Stock Market,Y,N,Y,N,N,N,N,Y,Y,Y,N,N,N,N,N
+Revolut - Mobile Finance,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Schwab Mobile,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,N,Y,N,Y
+Khan Academy Kids,Y,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+Early Learning Academy,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Epic: Kids' Books & Reading,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,Y
+Starfall ABCs,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Lingokids - Play and Learn,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Pok Pok | Montessori Preschool,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+My Very Hungry Caterpillar,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Daniel Tiger's Stop & Go Potty,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Toca Boca World x Hello Kitty,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Bedtime Math,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Peekaboo Baby & Toddler Books,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Little Builders,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Clue Period & Cycle Tracker,Y,N,Y,N,Y,N,N,N,Y,Y,N,N,N,N,Y
+EvolveYou: Strength For Women,Y,Y,Y,N,N,Y,N,N,Y,Y,N,N,N,N,N
+Bumble Dating app: Chat & Meet,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,N,N,Y
+Period Tracker,Y,N,Y,N,Y,Y,N,Y,N,Y,N,N,N,N,Y
+Pregnancy + | Tracker App,Y,N,Y,Y,N,Y,N,N,Y,Y,Y,N,N,N,Y
+Find my kids: Kids GPS Tracker,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,N
+Bebbo parenting app,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Shohay Pregnancy,Y,N,N,N,Y,Y,N,Y,Y,N,N,Y,N,N,Y
+Daylio Journal - Mood Tracker,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+HELP,Y,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
+Avoya Connect,N,N,Y,N,N,N,N,Y,Y,Y,N,N,N,N,N
+Safeo24: Women Safety App,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+UrSafe: Safety & Security App,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Early Learning Academy,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Endless Alphabet,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N,N
+Flo Period & Pregnancy Tracker,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,N,N
+Life360: Live Location Sharing,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Google Family Link,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Apples & Bananas Kids App,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Intellecto Kids Learning Games,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Kids Educational Games: 3+,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Hers: Women’s Healthcare,Y,Y,N,N,N,Y,N,N,N,N,N,N,N,N,Y
+Be Bodywise: Hair & Skin Care,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Rosy - Women's Health,Y,N,Y,N,N,N,N,N,Y,Y,N,Y,N,N,Y
+FEMM Health and Period Tracker,Y,N,Y,N,Y,N,N,N,Y,Y,N,N,N,N,N
+Hobfit Women Health & Wellness,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N,N
+IMC Women's Health,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Pearl: Women’s Intimate Health,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+Sound Sleeper Baby White Noise,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Baby Games: Piano & Baby Phone,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Baby Games for 1-3 Year Olds,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Baby Development & Parenting,Y,N,N,N,N,Y,N,N,N,Y,N,Y,N,N,N
+ToguMogu Pregnancy & Parenting,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,N,N,Y
+Baby Tracker - Newborn Log,N,N,Y,N,N,Y,N,N,Y,Y,N,N,N,N,N
+"Baby tracker - feeding, sleep",N,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Huckleberry: Baby & Child,Y,N,Y,N,N,Y,N,N,Y,Y,N,N,N,N,N
+The Wonder Weeks - Leaps,Y,N,N,N,N,Y,N,N,Y,N,N,N,Y,N,N
+Natural Cycles - Birth Control,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,Y
+ScratchJr,N,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+codeSpark - Coding for Kids,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,N,N,Y
+Fairy Tales ~ Children’s Books,N,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Prodigy Math: Kids Game,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+ABCmouse – Kids Learning Games,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Endless Reader,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N,N
+Kids Doodle - Paint & Draw,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Osmos,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Animal Sounds,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Color Kids: Coloring Games,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+StoryLine,Y,N,N,N,N,N,N,Y,N,Y,N,N,N,N,Y
+LeapFrog Fight TV.,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+First Words for Baby & Toddler,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Math Kids: Math Games For Kids,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Science Experiments School Lab,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Sesame Street Alphabet Kitchen,N,N,N,Y,N,N,N,N,Y,N,N,N,N,N,N
+Yoga for Kids & Family fitness,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Thomas & Friends: Magic Tracks,N,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Pregnancy Tracker App | Glow,Y,N,Y,Y,N,Y,N,N,Y,Y,N,Y,N,N,N
+Fitbit,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,N,N
+Fabulous Daily Routine Planner,Y,Y,Y,N,N,Y,N,N,Y,Y,N,N,N,N,Y
+Reflectly: Mood Tracker Diary,Y,N,Y,N,N,Y,N,N,Y,Y,N,N,N,N,N
+Habitica: Gamify Your Tasks,Y,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+Insight Timer - Meditation App,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Yuka - Food & Cosmetic Scanner,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Peloton - at home fitness,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,N,N,N,Y
+"Calm - Sleep, Meditate, Relax",Y,Y,Y,Y,N,N,Y,N,Y,Y,N,N,N,N,Y
+Yoga | Down Dog,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+7 Cups - Anxiety & Stress Chat,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,Y,N,N,Y
+FitOn Workouts & Fitness Plans,Y,N,Y,N,Y,N,N,N,Y,Y,N,N,N,N,Y
+Pregnancy App & Baby Tracker,Y,N,Y,N,N,Y,N,N,Y,N,N,Y,N,N,N
+Shohay Pregnancy,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Punjab Police-Women Safety App,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,Y
+Grammarly Keyboard,Y,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+Brainly - Scan & Solve Study App,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,Y
+Codecademy Go,Y,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N
+Prodigy: Kids Math Game,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+IXL - Math and  English,Y,N,Y,Y,N,N,N,N,N,Y,N,N,N,N,N
+Kahoot! Play & Create Quizzes,Y,N,Y,N,N,Y,N,N,Y,Y,N,N,N,N,Y
+Brilliant Connect,Y,Y,N,N,N,Y,Y,N,Y,Y,N,N,N,N,N
+Busuu: Learn Languages,Y,N,Y,Y,N,Y,Y,N,Y,Y,N,N,N,N,Y
+SoloLearn: Learn to code,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Elevate: Brain Training Games,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+TED Talks: Watch and Learn,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Udemy - Online Courses,Y,Y,Y,Y,N,Y,N,N,Y,Y,Y,N,N,N,N
+Coursera: Grow Your Career,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Google Classroom,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Quizlet: Flashcards & Study,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,Y
+Khan Academy,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,Y
+Photomath,Y,Y,Y,N,N,Y,N,N,Y,Y,N,N,N,N,Y
+edX: Courses by Harvard & MIT,Y,N,N,N,N,Y,N,N,N,Y,N,N,N,N,Y
+Vocabulary Builder - Test Prep,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Star Walk 2 Plus Night Sky Map,N,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+GregMat - GRE and TOEFL Prep,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Babbel: Language Learning,Y,Y,Y,Y,N,N,Y,N,Y,Y,N,N,N,N,Y
+codeSpark - Coding for Kids,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,N,N,Y
+Tynker - Learn to Code,Y,Y,N,N,N,N,N,N,Y,N,N,N,N,N,Y
+Gauth: AI Study Companion,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Duolingo: Language Lessons,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,N,N,Y
+Memrise: Languages for Life,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+HelloTalk - Learn Languages,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Rosetta Stone: Learn Languages,Y,N,Y,N,N,N,Y,N,N,Y,N,N,N,N,Y
+WolframAlpha Classic,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Mimo: Learn Coding/Programming,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Programming Hub: Learn to code,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+MalMath: Step by step solver,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Wikipedia,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+LinkedIn Learning,Y,N,Y,N,N,N,N,Y,Y,Y,N,Y,N,N,Y
+Brilliant,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+"Goodreads: Book Reviews
+",Y,N,Y,Y,N,Y,N,Y,Y,Y,N,Y,N,N,Y
+AnkiDroid Flashcards,N,N,Y,N,N,Y,Y,N,Y,N,N,N,Y,N,N
+PDF Editor & Reader App | Xodo,Y,N,Y,Y,N,N,N,N,Y,Y,N,N,Y,N,Y
+PlantNet Plant Identification,N,N,N,Y,N,Y,N,N,N,N,N,N,N,N,N
+Simply Piano: Learn Piano Fast,Y,Y,Y,N,N,N,Y,N,Y,Y,N,N,N,N,N
+"Libby, the Library App",Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+DeepL Translate,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+HiNative - Language Learning,N,Y,Y,N,N,Y,Y,N,Y,N,N,N,N,N,N
+Symbolab: Math AI Photo Solver,Y,N,Y,N,N,Y,N,N,N,Y,N,N,N,N,N
+Chess - Play and Learn Online,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,N,N,N
+Yousician: Learn Guitar & Bass,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Google Arts & Culture,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,Y
+Perfect Ear: Music & Rhythm,N,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N
+Peak – Brain Games & Training,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,N,N,Y
+Mathway: Scan & Solve Problems,Y,Y,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,Y
+Socratic Owl: Question Answer,N,N,Y,N,N,Y,N,Y,N,Y,N,N,Y,N,Y
+GeoGebra Graphing Calculator,Y,N,Y,N,N,N,N,N,N,N,N,N,Y,N,N
+Desmos Graphing Calculator,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Lumosity: Brain Training Games,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,Y
+Outliner,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+edX online learning,Y,N,Y,N,N,Y,Y,N,Y,Y,Y,N,Y,N,N
+Evernote - Note Organizer,N,N,Y,N,N,Y,N,N,Y,Y,N,N,N,N,N
+Microsoft OneNote: Save Notes,N,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N
+MindMeister - Mind Mapping,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Prezi Viewer,N,N,Y,N,N,N,N,Y,N,Y,N,N,N,N,N
+Canva: AI Video & Photo Editor,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+"Adobe Express: AI Photo, Video",Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+Yond,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,Y,N,N,Y
+Powtoon Video Ai App Advices,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+Explain Everything Whiteboard,Y,Y,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Whiteboard,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+ClassDojo,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,N
+Remind: School Communication,Y,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Bloomz,Y,N,Y,N,N,Y,Y,Y,Y,Y,Y,N,Y,N,N
+Google Family Link,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Mind School,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Canvas,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Moodle,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Reverso Translate and Learn,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N,N,N
+Scratch,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Starfall,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Blinkist: Book Summaries Daily,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Zotero,Y,N,Y,N,N,N,N,N,N,N,N,N,Y,N,N
+Preply: Language Learning App,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N
+Skillshare: Online Classes App,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+MasterClass: Become More You,Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,N
+Great Learning: Online Courses,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,Y,N,Y
+ChatGPT,Y,N,Y,Y,N,N,N,Y,Y,N,N,N,N,N,N
+Google Gemini,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Microsoft Copilot,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Meta AI,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Deep Think - AI Seek Chatbot,N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Grok • Smartest AI Advisor,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,N
+Perplexity - Ask Anything,N,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+YouChat2.0,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Poe - Fast AI Chat,Y,N,Y,N,N,Y,N,N,Y,Y,N,N,Y,N,N
+Chatbot AI - Chat & Ask AI,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+AI Chat Smith Smart Assistant,N,N,Y,N,N,Y,Y,N,N,Y,N,N,N,N,N
+Chatbot AI Assistant - Genie,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+Nova: AI Chatbot,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+Frank: AI Chat Assistant,Y,N,N,N,N,Y,Y,N,N,N,N,N,Y,N,N
+Chat AI: AI Chat Bot Assistant,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Ask for AI Chat Apu Assistant,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+ChatOn - AI Chat Bot Assistant,Y,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Ask AI - Chat with AI Chatbot,N,N,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Cactus Chat,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+starryai - AI Art Generator,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+Replika: My AI Friend,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Kajiwoto AI Friend Companions,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Anima: My Virtual AI Boyfriend,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,N,N,Y
+Botify AI: Create. Chat. Bot.,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+EVA AI Girlfriend & Character,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,Y
+Slack,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Microsoft Teams,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Grammarly-AI Writing Assistant,Y,N,Y,N,N,N,N,N,N,Y,N,N,N,N,N
+ELSA Speak: English Learning,Y,Y,Y,Y,N,Y,Y,N,Y,Y,N,N,N,N,Y
+Termux,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Claude by Anthropic,Y,N,Y,Y,N,Y,N,N,Y,N,N,N,Y,N,N
+"Character AI: Chat, Talk, Text",N,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Lensa: photo editor & AI art,N,N,Y,N,N,Y,N,N,Y,Y,N,N,N,N,N
+FaceApp: Perfect Face Editor,N,Y,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+Photoroom AI Photo Editor,Y,Y,Y,N,N,Y,N,N,N,Y,N,N,N,N,N
+Microsoft SwiftKey AI Keyboard,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+"Picsart AI Photo Editor, Video",Y,Y,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+TripIt: Travel Planner,Y,N,Y,N,N,Y,N,Y,Y,Y,N,N,Y,N,Y
+Tasker,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Woebot: The Mental Health Ally,N,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N
+Luzia: Your AI Assistant,Y,Y,N,N,N,N,N,N,Y,N,N,N,N,N,N
+Smart AI Chat Assistant,N,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+ClickUp - Manage Teams & Tasks,Y,N,Y,N,N,Y,Y,N,Y,Y,N,N,Y,N,N
+Quizlet: More than Flashcards,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,Y
+"Adobe Express: AI Photo, Video",Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+Filmora - Video Editor & Maker,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Photomath,Y,Y,Y,N,N,Y,N,N,Y,Y,N,N,N,N,Y
+Replit: Vibe Code Apps,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Canva: AI Video & Photo Editor,Y,Y,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Fitbod: Workout & Gym Planner,Y,Y,Y,N,Y,N,N,N,Y,Y,N,N,N,N,N
+Japer AI Writer- Seek AI Write,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+AI Copy - Write Essay & Email,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+DeepSeek - AI Assistant,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,N
+AI Writer - Write Better,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Sudowrite - AI Novel Writing,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N
+AI Novel Generator-Novel Maker,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,N
+Chai: Chat AI Platform,Y,Y,Y,N,N,Y,N,Y,Y,Y,N,N,N,N,N
+CrushonChat-Create. Chat. Love,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Candy AI,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+SoulGen Lite - Official App,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N
+AI Dungeon: RPG & Story Maker,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,N,N,Y
+Choice of Games,N,Y,Y,Y,N,N,N,N,Y,Y,N,N,N,N,N
+Twine - RSS Reader,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Windscribe VPN,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+Chatfuel: Auto Reply AI for WA,Y,N,N,N,N,Y,Y,N,N,Y,N,N,Y,N,Y
+Manychat,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,N
+Voice Commands For Alexa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Bixby Voice commands - Guides,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+WolframAlpha,Y,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N
+Chegg Study - Homework Helper,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,N,N,N
+Yandex Search,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+??(Baidu Assitant),N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+AWS Console,Y,N,Y,N,N,N,N,Y,Y,Y,N,N,N,N,N
+Voice AI Assistant for Seri,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Voice Commands for Cortana,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,N
+Google Assistant Go,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Feedly - Smarter News Reader,Y,N,N,N,N,N,N,N,Y,N,N,N,N,N,N
+QuillBot - AI Writing Keyboard,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,N
+Roam Research,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N
+Asana: Work Management,Y,N,Y,N,N,Y,Y,Y,Y,Y,N,N,Y,N,Y
+Ada – check your health,Y,N,Y,Y,Y,N,N,N,Y,Y,N,N,N,N,Y
+HOUND & FRIENDS,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
