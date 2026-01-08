@@ -255,6 +255,13 @@ header p {
     margin-right: 8px;
 }
 
+/* Make "both" arrow bigger */
+.direction-cell .arrow[src*="both"] {
+    width: 50px;
+    height: 28px;
+    margin-right: 6px;
+}
+
 /* Fallback small message */
 .no-details {
     padding: 12px;

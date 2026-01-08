@@ -40,7 +40,7 @@
     "name": "Health & Fitness"
   },
    "Contacts & calendar": {
-    "icon": "assets/data-type-icons/Calendar.png",
+    "icon": "assets/data-type-icons/Contacts & calendar.png",
     "name": "Calendar"
   },
   "Sound & music": {
@@ -52,11 +52,11 @@
     "name": "Belief & identity"
   },
   "Things users create": {
-    "icon": "assets/data-type-icons/Things users create.png",
+    "icon": "assets/data-type-icons/Things users create.jpeg",
     "name": "Things users create"
   },
   "Miscellaneous info": {
-    "icon": "assets/data-type-icons/Miscellaneous info.png",
+    "icon": "assets/data-type-icons/Miscellaneous info.jpeg",
     "name": "Miscellaneous info"
   }
 }
