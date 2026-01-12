@@ -196,6 +196,70 @@ header p {
     margin-top: 20px;
 }
 
+/* Data Legend Styles */
+.data-legend {
+    background-color: #f9f9f9;
+    border-left: 4px solid #3e8e41;
+    padding: 8px 10px 8px 20px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+}
+
+.data-legend h4 {
+    margin: 0 0 6px -12px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 5px;
+    margin-left: -12px;
+    font-size: 12px;
+    color: #555;
+}
+
+.legend-item:last-child {
+    margin-bottom: 0;
+}
+
+/* Fixed: Single arrow consistent sizing */
+.legend-arrow {
+    width: 24px;
+    height: 20px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* Both arrow - make it same width as single arrows for perfect alignment */
+.legend-arrow-both {
+    width: 24px;
+    height: 20px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+.legend-item strong {
+    font-weight: 600;
+}
+
+.text-collected {
+    color: #22c55e !important;
+}
+
+.text-shared {
+    color: #ef4444 !important;
+}
+
+.text-both {
+    color: #8b5cf6 !important;
+}
+
 /* Data safety compact table */
 .data-table {
     width: 100%;
@@ -252,7 +316,8 @@ header p {
     vertical-align: middle;
     object-fit: contain;
     flex-shrink: 0;
-    margin-right: 8px;
+    margin-right: 0px;
+    margin-left: -8px;
 }
 
 /* Make "both" arrow bigger */

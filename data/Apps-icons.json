@@ -1,190 +1,159 @@
 {
-  "1Password: Password Manager": {
-    "icon": "Assets/App-icons/1password manager.webp",
-    "name": "1password manager"
+  "Noom: Health & Weight": {
+    "icon": "Assets/App-icons/Noom.png",
+    "name": "Noom: Health & Weight"
   },
-  "ASICS Runkeeper - Run Tracker": {
-    "icon": "Assets/App-icons/asics runkeeper.png",
-    "name": "asics runkeeper"
+  "BetterMe: Health Coaching": {
+    "icon": "Assets/App-icons/BetterMe.png",
+    "name": "BetterMe: Health Coaching"
   },
-  "Avast Antivirus & Security": {
-    "icon": "Assets/App-icons/avast antivirus and security.webp",
-    "name": "avast antivirus and security"
+  "Booking.com: Hotels and more": {
+    "icon": "Assets/App-icons/Booking.com.png",
+    "name": "Booking.com: Hotels and more"
   },
-  "Bebbo parenting app": {
-    "icon": "Assets/App-icons/bebbo parenting app.webp",
-    "name": "bebbo parenting app"
+  "KuCoin: Buy Bitcoin & Crypto": {
+    "icon": "Assets/App-icons/KuCoin.jpg",
+    "name": "KuCoin: Buy Bitcoin & Crypto"
   },
-  "Bitcoin.com Wallet: Bitcoin": {
-    "icon": "Assets/App-icons/bitcoin dot com wallet.png",
-    "name": "bitcoin dot com wallet"
+  "Amazon Shopping": {
+    "icon": "Assets/App-icons/Amazon Shopping.png",
+    "name": "Amazon Shopping"
   },
   "Bumble Dating app: Chat & Meet": {
     "icon": "Assets/App-icons/bumble dating app.webp",
-    "name": "bumble dating app"
+    "name": "Bumble Dating app: Chat & Meet"
   },
-  "Cactus Chat": {
-    "icon": "Assets/App-icons/cactus image.webp",
-    "name": "cactus image"
-  },
-  "ChatGPT": {
-    "icon": "Assets/App-icons/ChatGPT.png",
-    "name": "ChatGPT"
-  },
-  "Chegg Study - Homework Helper": {
-    "icon": "Assets/App-icons/Chegg study.webp",
-    "name": "Chegg study"
-  },
-  "Clue Period & Cycle Tracker": {
-    "icon": "Assets/App-icons/Clue cycle nd period cycle.webp",
-    "name": "Clue cycle nd period cycle"
-  },
-  "Dashlane Password Manager": {
-    "icon": "Assets/App-icons/dashlane password manager.webp",
-    "name": "dashlane password manager"
-  },
-  "Daylio Journal - Mood Tracker": {
-    "icon": "Assets/App-icons/daylio journal mood tracker.webp",
-    "name": "daylio journal mood tracker"
-  },
-  "DeepSeek - AI Assistant": {
-    "icon": "Assets/App-icons/Deepseek ai assistant.webp",
-    "name": "Deepseek ai assistant"
-  },
-  "Discord – Talk, Play, Hang Out": {
-    "icon": "Assets/App-icons/discord.png",
-    "name": "discord"
-  },
-  "Drugs.com Medication Guide": {
-    "icon": "Assets/App-icons/drugs dot com.webp",
-    "name": "drugs dot com"
-  },
-  "Empower Mobile": {
-    "icon": "Assets/App-icons/empower mobile.webp",
-    "name": "empower mobile"
-  },
-  "Endless Alphabet": {
-    "icon": "Assets/App-icons/endless alphabet.png",
-    "name": "endless alphabet"
-  },
-  "EvolveYou: Strength For Women": {
-    "icon": "Assets/App-icons/Evolve you stregth for women.webp",
-    "name": "Evolve you stregth for women"
-  },
-  "Fabulous Daily Routine Planner": {
-    "icon": "Assets/App-icons/fabulous daily routine.png",
-    "name": "fabulous daily routine"
-  },
-  "FaceApp: Perfect Face Editor": {
-    "icon": "Assets/App-icons/faceapp perfect face editor.webp",
-    "name": "faceapp perfect face editor"
-  },
-  "Facebook": {
-    "icon": "Assets/App-icons/facebook.webp",
-    "name": "facebook"
-  },
-  "FEMM Health and Period Tracker": {
-    "icon": "Assets/App-icons/femm health.webp",
-    "name": "femm health"
-  },
-  "Flo Period & Pregnancy Tracker": {
-    "icon": "Assets/App-icons/flo period and pregnancy tracker.webp",
-    "name": "flo period and pregnancy tracker"
-  },
-  "Goodbudget: Budget & Finance": {
-    "icon": "Assets/App-icons/goodbudget.png",
-    "name": "goodbudget"
-  },
-  "Google Gemini": {
-    "icon": "Assets/App-icons/Google Gemini.png",
-    "name": "Google Gemini"
-  },
-  "Instagram": {
-    "icon": "Assets/App-icons/Instagram.png",
-    "name": "Instagram"
-  },
-  "MacroFactor - Macro Tracker": {
-    "icon": "Assets/App-icons/macrofactor.webp",
-    "name": "macrofactor"
-  },
-  "Medisafe Pill & Med Reminder": {
-    "icon": "Assets/App-icons/medisafe pill.png",
-    "name": "medisafe pill"
-  },
-  "Medscape": {
-    "icon": "Assets/App-icons/medscape.webp",
-    "name": "medscape"
-  },
-  "MyFitnessPal: Calorie Counter": {
-    "icon": "Assets/App-icons/my fitness pal.webp",
-    "name": "my fitness pal"
-  },
-  "Netflix": {
-    "icon": "Assets/App-icons/netflix.webp",
-    "name": "netflix"
-  },
-  "Photoroom AI Photo Editor": {
-    "icon": "Assets/App-icons/phtotoroom ai photo editor.webp",
-    "name": "phtotoroom ai photo editor"
-  },
-  "Pinterest": {
-    "icon": "Assets/App-icons/pinterest.webp",
-    "name": "pinterest"
-  },
-  "Prime Video": {
-    "icon": "Assets/App-icons/prime video.webp",
-    "name": "prime video"
+  "SoFi: Bank, Invest & Loans": {
+    "icon": "Assets/App-icons/SoFi.png",
+    "name": "SoFi: Bank, Invest & Loans"
   },
   "Reddit": {
     "icon": "Assets/App-icons/Reddit.png",
     "name": "Reddit"
   },
-  "Snapchat": {
-    "icon": "Assets/App-icons/snapchat.webp",
-    "name": "snapchat"
+  "Rocket Money - Bills & Budgets": {
+    "icon": "Assets/App-icons/Rocket Money.png",
+    "name": "Rocket Money - Bills & Budgets"
   },
-  "Shohay Pregnancy": {
-    "icon": "Assets/App-icons/sohay pregnancy.webp",
-    "name": "sohay pregnancy"
+  "Insight Timer - Meditation App": {
+    "icon": "Assets/App-icons/Insight Timer.webp",
+    "name": "Insight Timer - Meditation App"
   },
-  "starryai - AI Art Generator": {
-    "icon": "Assets/App-icons/Starryai-ai art generator.webp",
-    "name": "Starryai-ai art generator"
+  "7 Cups - Anxiety & Stress Chat": {
+    "icon": "Assets/App-icons/7 Cups.jfif",
+    "name": "7 Cups - Anxiety & Stress Chat"
   },
-  "Strava: Run, Bike, Walk": {
-    "icon": "Assets/App-icons/starva run bike hike.webp",
-    "name": "starva run bike hike"
+  "Healthify Weight Loss Coach": {
+    "icon": "Assets/App-icons/Healthify Weight Loss Coach.png",
+    "name": "Healthify Weight Loss Coach"
   },
-  "Tasker": {
-    "icon": "Assets/App-icons/Tasker.webp",
-    "name": "Tasker"
+  "Pregnancy App & Baby Tracker": {
+    "icon": "Assets/App-icons/Pregnancy App & Baby Tracker.webp",
+    "name": "Pregnancy App & Baby Tracker"
   },
-  "Toca Boca World x Hello Kitty": {
-    "icon": "Assets/App-icons/tocaboca world.png",
-    "name": "tocaboca world"
+    "Pinterest": {
+    "icon": "Assets/App-icons/pinterest.webp",
+    "name": "pinterest"
   },
-  "TripIt: Travel Planner": {
-    "icon": "Assets/App-icons/Triplt travel planner.png",
-    "name": "Triplt travel planner"
+  
+  "Hitman: Sniper": {
+    "icon": "Assets/App-icons/Hitman.png",
+    "name": "Hitman: Sniper"
   },
-  "Uptodate Lexidrug": {
-    "icon": "Assets/App-icons/uptodate lexidrug.webp",
-    "name": "uptodate lexidrug"
+  "Picsart AI Photo Editor, Video": {
+    "icon": "Assets/App-icons/Picsart AI Photo Editor, Video.png",
+    "name": "Picsart AI Photo Editor, Video"
   },
-  "Voice Commands For Alexa": {
-    "icon": "Assets/App-icons/voice ai assistant for seri.webp",
-    "name": "voice ai assistant for seri"
+  "Udemy - Online Courses": {
+    "icon": "Assets/App-icons/Udemy.png",
+    "name": "Udemy - Online Courses"
   },
-  "WeChat": {
-    "icon": "Assets/App-icons/we chat.webp",
-    "name": "we chat"
+  "Quizlet: More than Flashcards": {
+    "icon": "Assets/App-icons/Quizlet.webp",
+    "name": "Quizlet: More than Flashcards"
   },
-  "X": {
-    "icon": "Assets/App-icons/X.webp",
-    "name": "X"
+  "Chai: Chat AI Platform": {
+    "icon": "Assets/App-icons/Chai.png",
+    "name": "Chai: Chat AI Platform"
   },
-  "Youtube": {
-    "icon": "Assets/App-icons/you tube music.webp",
-    "name": "you tube music"
+  "Ada – check your health": {
+    "icon": "Assets/App-icons/Ada.png",
+    "name": "Ada – check your health"
+  },
+  "Albert: Budgeting and Banking": {
+    "icon": "Assets/App-icons/Albert.webp",
+    "name": "Albert: Budgeting and Banking"
+  },
+  "NerdWallet: Smart Money App": {
+    "icon": "Assets/App-icons/NerdWallet.webp",
+    "name": "NerdWallet: Smart Money App"
+  },
+  "ClassDojo": {
+    "icon": "Assets/App-icons/ClassDojo.png",
+    "name": "ClassDojo"
+  },
+  "TradingView: Track All Markets": {
+    "icon": "Assets/App-icons/TradingView.png",
+    "name": "TradingView: Track All Markets"
+  },
+  "WHOOP": {
+    "icon": "Assets/App-icons/WHOOP.png",
+    "name": "WHOOP"
+  },
+  "Polaris Office: Edit&View, PDF": {
+    "icon": "Assets/App-icons/Polaris Office.png",
+    "name": "Polaris Office: Edit&View, PDF"
+  },
+  "Map My Run GPS Running Tracker": {
+    "icon": "Assets/App-icons/Map My Run GPS Running Tracker.png",
+    "name": "Map My Run GPS Running Tracker"
+  },
+  "Whiteboard": {
+    "icon": "Assets/App-icons/Whiteboard.png",
+    "name": "Whiteboard"
+  },
+  "Monarch: Budget & Track Money": {
+    "icon": "Assets/App-icons/Monarch.png",
+    "name": "Monarch Money: Budget & Track Money"
+  },
+  "Preply: Language Learning App": {
+    "icon": "Assets/App-icons/Preply.png",
+    "name": "Preply: Language Learning App"
+  },
+  "The Wonder Weeks - Leaps": {
+    "icon": "Assets/App-icons/The Wonder Weeks - Leaps.png",
+    "name": "The Wonder Weeks - Leaps"
+  },
+    "Prime Video": {
+    "icon": "Assets/App-icons/prime video.webp",
+    "name": "prime video"
+  },
+  "edX online learning": {
+    "icon": "Assets/App-icons/edX online learning.webp",
+    "name": "edX online learning"
+  },
+  "PDF Editor & Reader App | Xodo": {
+    "icon": "Assets/App-icons/PDF Editor & Reader App.png",
+    "name": "PDF Editor & Reader App | Xodo"
+  },
+  "Public – Stocks and Options": {
+    "icon": "Assets/App-icons/Public – Stocks and Options.png",
+    "name": "Public – Stocks and Options"
+  },
+  "edX: Courses by Harvard & MIT": {
+    "icon": "Assets/App-icons/edX.webp",
+    "name": "edX: Courses by Harvard & MIT "
+  },
+  "MasterClass: Become More You": {
+    "icon": "Assets/App-icons/MasterClass.png",
+    "name": "MasterClass: Become More You"
+  },
+  "Schwab Mobile": {
+    "icon": "Assets/App-icons/Mobile.webp",
+    "name": "Schwab Mobile"
+  },
+  "Amazon Kindle": {
+    "icon": "Assets/App-icons/Amazon Kindle.png",
+    "name": "Amazon Kindle"
   }
 }

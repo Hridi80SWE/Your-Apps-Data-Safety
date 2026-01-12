@@ -226,6 +226,25 @@ function buildDataSafetyTableForApp(appName) {
 
     if (rows.length === 0) return '<div class="no-details">No data safety details available for this app.</div>';
 
+    // Build legend/note explaining arrows
+    const legend = `
+        <div class="data-legend">
+            <h4>Data Flow Legend:</h4>
+            <div class="legend-item">
+                <img src="Assets/Arrows/Collected_n.jpeg" alt="Collected" class="legend-arrow" />
+                <span>= Data is <strong class="text-collected">Collected</strong> by this app</span>
+            </div>
+            <div class="legend-item">
+                <img src="Assets/Arrows/Shared_n.jpeg" alt="Shared" class="legend-arrow" />
+                <span>= Data is <strong class="text-shared">Shared</strong> by this app</span>
+            </div>
+            <div class="legend-item">
+                <img src="Assets/Arrows/both_n.jpeg" alt="Both" class="legend-arrow legend-arrow-both" />
+                <span>= Data is <strong class="text-both">Both Shared & Collected</strong></span>
+            </div>
+        </div>
+    `;
+
     // build compact table HTML (uses CSS classes in Style.css)
     let table = `<table class="data-table">`;
     table += `<thead><tr><th>Data type</th><th></th></tr></thead><tbody>`;
@@ -237,7 +256,7 @@ function buildDataSafetyTableForApp(appName) {
         table += `</tr>`;
     });
     table += `</tbody></table>`;
-    return table;
+    return legend + table;
 }
 
 // Show Data Safety Details in the Modal

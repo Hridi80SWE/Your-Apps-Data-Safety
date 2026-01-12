@@ -1,14 +1,14 @@
 {
   "Shared": {
-    "icon": "Assets/Arrows/Shared.jpeg",
+    "icon": "Assets/Arrows/Shared_n.jpeg",
     "name": "Shared "
   },
   "Collected": {
-    "icon": "Assets/Arrows/Collected.jpeg",
+    "icon": "Assets/Arrows/Collected_n.jpeg",
     "name": "Collected "
   },
   "Both": {
-    "icon": "Assets/Arrows/both_nnn.jpeg",
+    "icon": "Assets/Arrows/both_n.jpeg",
     "name": "both"
   }
 }
